@@ -94,11 +94,11 @@ Bu sprintte amaç, BiteCheck uygulamasının temel fonksiyonlarını oluşturmak
 ---
 ## 🖼️ Planlanan Uygulama Tasarımı
 
-![Planlanan Tasarım](./assets/WhatsApp Image 2025-07-02 at 16.25.33.jpeg)
-![Planlanan Tasarım](./WhatsApp Image 2025-07-02 at 16.25.50.jpeg)
-![Planlanan Tasarım](./assets/WhatsApp Image 2025-07-02 at 16.26.38.jpeg)
-![Planlanan Tasarım](./assets/WhatsApp Image 2025-07-02 at 16.26.58.jpeg)
-![Planlanan Tasarım](./assets/WhatsApp Image 2025-07-02 at 16.27.23.jpeg)
+![Tasarım 1](./assets/1.jpeg)
+![Tasarım 2](./assets/2.jpeg)
+![Tasarım 3](./assets/3.jpeg)
+![Tasarım 4](./assets/4.jpeg)
+![Tasarım 5](./assets/5.jpeg)
 
 --
 ##  Hedeflenen Başlıca İşler
