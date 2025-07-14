@@ -92,7 +92,7 @@ Kullanıcılar sadece bir fotoğraf yükleyerek yapay zekâ tarafından analiz e
 Bu sprintte amaç, BiteCheck uygulamasının temel fonksiyonlarını oluşturmak; özellikle kullanıcıdan alınan cilt görseli üzerinden yapay zekâ ile ilk tanı tahmininin yapılması ve semptom bilgisinin alınarak tanının desteklenmesidir.
 
 ---
-## 🖼️ Planlanan Uygulama Tasarımı
+## Planlanan Uygulama Tasarımı
 
 ![Tasarım 1](./assets/1.jpeg)
 ![Tasarım 2](./assets/2.jpeg)
@@ -142,3 +142,55 @@ Her kart altında detaylı **checklist** adımları yer almaktadır.
 ## Notlar
 - Lokasyon bilgisi bu sprintte dahil edilmemiştir.
 - Bu sprint MVP'nin iskeletini oluşturmaya yöneliktir.
+
+#  Sprint 2 - BiteCheck
+##  Sprint Notları
+- **User Story'ler**, her bir görev kartı içerisinde checklistlerle tanımlanmıştır.
+## Sprint Bilgileri
+- **Sprint içinde tamamlanması tahmin edilen puan:** 50 Puan
+- **Puan tamamlama mantığı:** Proje boyunca tamamlanması gereken toplam 300 puanlık backlog bulunmaktadır. 3 sprinte bölündüğünde ikinci sprintin 50 puandan oluşması gerektiği kararlaştırıldı.
+- **Sprint Amacı:** Yapay zeka tahmin ekranlarının UI ile entegre edilmesi, semptom ve görsel analizi modüllerinin fonksiyonel hale getirilmesi
+
+---
+
+## Renk Kodlama Mantığı
+
+| Renk | Açıklama | Kullanım Alanı |
+|------|----------|----------------|
+| Mavi | UI / Tasarım | Arayüz geliştirme, gösterim |
+| Yeşil | Backend / Veritabanı | Veri işleme, saklama, analiz |
+| Mor | Yapay Zeka / Modelleme | Görsel işleme, sınıflandırma, model |
+| Sarı | Mobil Donanım Özelliği | Kamera, galeri gibi mobil yetenekler |
+| Kırmızı | Kritik / Güvenlik | Hata önleme, uyarı sistemleri |
+| Turuncu | UX / Animasyon | Kullanıcı deneyimi, animasyonlar |
+| Gri | Destek / Dil / Tema | Çoklu dil, temalar, teknik ayarlar |
+
+---
+
+## Daily Scrum
+  Daily Scrum toplantılarının Whatsapp üzerinden yapılmasına karar verildi. Günlük Whatsapp konuşmalarımız ![Whatsapp Konuşma](./assets/daily_scrum)
+
+## Ekran Görüntüsü - Sprint Board  
+> ![Sprint Board](./assets/Backlog.png)
+
+---
+## Ürün Güncel Hali
+![Tasarım 1](./assets/1.jpeg)
+![Tasarım 2](./assets/2.jpeg)
+![Tasarım 3](./assets/3.jpeg)
+![Tasarım 4](./assets/4.jpeg)
+![Tasarım 5](./assets/5.jpeg)
+---
+
+## Sprint Review
+Sprint sonunda geliştirilen modüller test edildi. Yapay zekadan dönen tahminler başarıyla UI üzerine yansıtıldı. Semptom modülü soruları gösteriyor ve kullanıcı yanıtlarına göre AI modeli çağrılabiliyor. Kamera entegrasyonu tamamlandı ancak galeri yükleme özelliği henüz test aşamasında.
+
+---
+
+## Sprint Retrospective
+- **Geliştirilenler:** Tahmin motoru, UI bağlama, semptom ekranı
+- **İyileştirme Alanları:** Görsel karşılaştırma algoritması Sprint 3’e bırakıldı.
+- **Planlama Kararı:** Story Point tahminleri başarılıydı, benzer yoğunlukta sprint yapısına devam edilecek.
+
+---
+
