@@ -1,0 +1,9 @@
+An example picture from the bug bites dataset depicting a ant
+An example picture from the bug bites dataset depicting a bed_bug
+An example picture from the bug bites dataset depicting a bee
+An example picture from the bug bites dataset depicting a chigger
+An example picture from the bug bites dataset depicting a flea
+An example picture from the bug bites dataset depicting a mosquito
+An example picture from the bug bites dataset depicting a no_bite
+An example picture from the bug bites dataset depicting a spider
+An example picture from the bug bites dataset depicting a tick
