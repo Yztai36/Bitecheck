@@ -4,7 +4,7 @@
 
 | İsim               | Görev                | Sosyal Medya / LinkedIn                      |
 |--------------------|----------------------|----------------------------------------------|
-|Ramazan Bıyık       |Scrum Master          | [LinkedIn](www.linkedin.com/in/ramazanbiyik/)|
+|Ramazan Bıyık       |Scrum Master          | [LinkedIn](https://www.linkedin.com/in/ramazanbiyik/)                |
 |Merve Çakır         |Developer             |                                              |
 |Zeynep Şener        |Product Manager       |                                              |
 
