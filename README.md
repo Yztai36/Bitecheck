@@ -5,8 +5,8 @@
 | İsim               | Görev                | Sosyal Medya / LinkedIn             |
 |--------------------|----------------------|-------------------------------------|
 |Ramazan Bıyık       |Scrum Master          |                                     |
-|Merve Çakır         |Product Manager       |                                     |
-|Zeynep Şener        |Developer             |                                     |
+|Merve Çakır         |Developer             |                                     |
+|Zeynep Şener        |Product Manager       |                                     |
 
 
 ## 🔗 Product Backlog
