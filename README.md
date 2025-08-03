@@ -2,11 +2,11 @@
 
 ## 👥 Ekip Üyeleri (Team Members)
 
-| İsim               | Görev                | Sosyal Medya / LinkedIn             |
-|--------------------|----------------------|-------------------------------------|
-|Ramazan Bıyık       |Scrum Master          |                                     |
-|Merve Çakır         |Developer             |                                     |
-|Zeynep Şener        |Product Manager       |                                     |
+| İsim               | Görev                | Sosyal Medya / LinkedIn                      |
+|--------------------|----------------------|----------------------------------------------|
+|Ramazan Bıyık       |Scrum Master          | [LinkedIn](www.linkedin.com/in/ramazanbiyik/)|
+|Merve Çakır         |Developer             |                                              |
+|Zeynep Şener        |Product Manager       |                                              |
 
 
 ## 🔗 Product Backlog
@@ -191,6 +191,68 @@ Sprint sonunda geliştirilen modüller test edildi. Yapay zekadan dönen tahminl
 - **Geliştirilenler:** Tahmin motoru, UI bağlama, semptom ekranı
 - **İyileştirme Alanları:** Görsel karşılaştırma algoritması Sprint 3’e bırakıldı.
 - **Planlama Kararı:** Story Point tahminleri başarılıydı, benzer yoğunlukta sprint yapısına devam edilecek.
+
+---
+#  Sprint 3 - BiteCheck
+
+##  Sprint Notları
+- Bu sprintte projenin son dokunuşları yapıldı. Kullanıcı testleri, hata giderimleri ve sunum materyalleri hazırlandı. Geriye dönük olarak sistemin işlevselliği ve kullanıcı deneyimi gözden geçirildi.
+
+## Sprint Bilgileri
+- **Sprint içinde tamamlanması tahmin edilen puan:** 150 Puan
+- **Puan tamamlama mantığı:** 300 puanlık backlog’un kalan 150 puanı bu sprintte tamamlandı. Sprint 3, ürünün son halini alan ve proje çıktılarının oluşturulduğu sprinttir.
+- **Sprint Amacı:** Projenin son haliyle teslim edilebilir hale getirilmesi, videolu sunumun hazırlanması, eksik fonksiyonların tamamlanması ve testlerin yapılması.
+
+---
+
+## Renk Kodlama Mantığı
+
+| Renk | Açıklama | Kullanım Alanı |
+|------|----------|----------------|
+| Mavi | UI / Tasarım | Arayüz geliştirme, gösterim |
+| Yeşil | Backend / Veritabanı | Veri işleme, saklama, analiz |
+| Mor | Yapay Zeka / Modelleme | Görsel işleme, sınıflandırma, model |
+| Sarı | Mobil Donanım Özelliği | Kamera, galeri gibi mobil yetenekler |
+| Kırmızı | Kritik / Güvenlik | Hata önleme, uyarı sistemleri |
+| Turuncu | UX / Animasyon | Kullanıcı deneyimi, animasyonlar |
+| Gri | Destek / Dil / Tema | Çoklu dil, temalar, teknik ayarlar |
+
+---
+
+## Daily Scrum
+Daily Scrum toplantıları Whatsapp üzerinden yürütülmeye devam etti. Son sprintte geliştirilen bileşenlerin durumları anlık olarak paylaşılmış, kritik kararlar hızlıca alınmıştır.
+
+![Whatsapp Konuşma](./assets/daily_scrum2)
+
+---
+
+## Ekran Görüntüsü - Sprint Board  
+> ![Sprint Board](./assets/Backlog2.png)
+
+---
+
+## Ürün Güncel Hali
+Final sürümden alınan video aşağıda yer almaktadır:
+
+![Final 1](./assets/tanıtım.mp4)  
+---
+
+## Sprint Review
+Sprint 3 sonunda aşağıdaki çıktılar elde edilmiştir:
+
+- Proje tanıtım videosu ve demo kaydı hazırlandı.
+- Kullanıcı testi yapılmış ve tespit edilen küçük hatalar düzeltildi.
+- Galeri yükleme özelliği başarıyla test edildi.
+- Modelden alınan tahminlerin doğruluğu artırıldı, sınıflandırıcı iyileştirildi.
+- Uygulamanın tüm fonksiyonları kararlı hale getirildi.
+- Play Store yüklemesi yapılmasa da APK üzerinden son testler başarıyla tamamlandı.
+
+---
+
+## Sprint Retrospective
+- **Geliştirilenler:** Video sunumu, son testler, hata düzeltmeleri, galeri entegrasyonu, final dokümantasyon
+- **İyileştirme Alanları:** Gelecekte modele ek bçcekler eklenip daha da uygulama geliştirilebilir.
+- **Genel Değerlendirme:** Sprint 3 ile birlikte tüm planlanan hedefler başarıyla tamamlandı. Ürün bitmiş, sunuma ve teslimata hazır hale gelmiştir. Takım içi iletişim ve iş bölümü başarılı şekilde yürütülmüştür.
 
 ---
 
